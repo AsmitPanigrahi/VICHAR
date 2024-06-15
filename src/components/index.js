@@ -12,6 +12,9 @@ import PostForm from "./post-form/PostForm";
 import PostCard from "./PostCard";
 import AuthLayout from "./AuthLayout";
 import Input from "./Input";
+import mobile from "/mobile.svg";
+import blank from "/blank.svg";
+import logo from "/logo.png";
 export {
     Header,
     Footer,
@@ -27,4 +30,7 @@ export {
     AuthLayout, 
     Input,
     Select,
+    mobile, 
+    blank,
+    logo
 }
