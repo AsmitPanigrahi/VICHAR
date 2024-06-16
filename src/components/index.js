@@ -15,6 +15,7 @@ import Input from "./Input";
 import mobile from "/mobile.svg";
 import blank from "/blank.svg";
 import logo from "/logo.png";
+import logoblack from "/logoblack.png";
 export {
     Header,
     Footer,
@@ -32,5 +33,6 @@ export {
     Select,
     mobile, 
     blank,
-    logo
+    logo,
+    logoblack
 }
