@@ -12,8 +12,9 @@ import PostForm from "./post-form/PostForm";
 import PostCard from "./PostCard";
 import AuthLayout from "./AuthLayout";
 import Input from "./Input";
-import mobile from "/mobile.svg";
-import blank from "/blank.svg";
+import mobile from "/mobile.png";
+import blank from "/blank.png";
+import looks from "/looks.png";
 import logo from "/logo.png";
 import logoblack from "/logoblack.png";
 export {
@@ -34,5 +35,6 @@ export {
     mobile, 
     blank,
     logo,
-    logoblack
+    logoblack,
+    looks
 }

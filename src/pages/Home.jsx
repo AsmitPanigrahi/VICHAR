@@ -83,7 +83,7 @@
 
 import React, { useEffect, useState } from 'react';
 import appwriteService from "../appwrite/config";
-import { Container, PostCard, mobile, blank } from '../components';
+import { Container, PostCard, mobile } from '../components';
 import { Link } from "react-router-dom";
 import { ImSpinner2 } from "react-icons/im";
 import { useSelector } from "react-redux";
@@ -124,13 +124,6 @@ function Home() {
                                         </Link>{" "}
                                         to add a new post.
                                     </p>
-                                    <img
-                                        src={blank}
-                                        className="w-3/4 cursor-pointer hover:scale-95 duration-300 ease-in-out"
-                                        alt=""
-                                    />
-                                </div>
-                                <div className="flex items-center justify-center">
                                     <img
                                         src={mobile}
                                         className="w-3/4 cursor-pointer hover:scale-95 duration-300 ease-in-out"
