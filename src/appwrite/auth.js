@@ -38,18 +38,26 @@ export class AuthService {
     }
 
 
+    // async getCurrentUser() {
+    //     try {
+    //         const currentUser = await this.account.get();
+    //         if (currentUser) {
+    //             return currentUser;
+    //         } else {
+    //             return null;
+    //         }
+    //     } catch (error) {
+    //         console.log("Appwrite serive :: getCurrentUser :: error", error);
+    //         throw error;
+    //     }
+    // }
     async getCurrentUser() {
         try {
-            const currentUser = await this.account.get();
-            if (currentUser) {
-                return currentUser;
-            } else {
-                return null;
-            }
+            return await this.account.get();
         } catch (error) {
             console.log("Appwrite serive :: getCurrentUser :: error", error);
-            throw error;
         }
+        return null;
     }
 
     async logout() {
@@ -66,5 +74,6 @@ export class AuthService {
 const authService = new AuthService();
 
 export default authService
+
 
 
