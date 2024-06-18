@@ -21,7 +21,7 @@ function LogoutBtn() {
   return (
     <button
       onClick={LogoutBtnHandler}
-      className=" hover:text-black hover:font-bold px-3 py-2 rounded-md"
+      className = "px-4 py-2 rounded-full transition duration-500 ease-in-out hover:bg-red-500 hover:text-white transform hover:scale-105"
     >
       {loader ? (
         <div className="flex items-center justify-center gap-3">
