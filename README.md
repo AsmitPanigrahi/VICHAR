@@ -63,7 +63,7 @@ To get started with Vichar, follow these steps:
 ![Edit Post](/public/AllPost.png)
 
 ### Login Page
-![Home Page](/public/LoginPage.png)
+![Login Page](/public/LoginPage.png)
 
 ### Create Post
 ![Create Post](/public/CreatePost.png)
