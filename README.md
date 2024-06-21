@@ -1,14 +1,14 @@
 # Vichar: Blog App
 
-Welcome to Vichaar, a dynamic blogging platform. Vichaar combines a sleek user interface with powerful features to provide an exceptional blogging experience. Whether you're looking to share your thoughts, showcase your expertise, or engage with a community, Vichaar is the place for you.
+Welcome to Vichar, a dynamic blogging platform. Vichaar combines a sleek user interface with powerful features to provide an exceptional blogging experience. Whether you're looking to share your thoughts, showcase your expertise, or engage with a community, Vichaar is the place for you.
 
-# Features
+### Features
 
 User Authentication: Secure login and signup functionalities.
 Rich Text Editing: Create visually appealing posts using our rich text editor.
 Responsive Design: Enjoy a seamless experience on any device.
 
-# Technologies Used
+### Technologies Used
 
 React.js: A JavaScript library for building user interfaces.
 Appwrite: Backend server that provides a set of easy-to-use APIs for databases, authentication, real-time, and storage.
