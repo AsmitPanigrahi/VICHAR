@@ -53,3 +53,17 @@ To get started with Vichar, follow these steps:
 - **Editing and Deleting Posts**: Edit and delete your existing blog posts.
 - **Browsing Posts**: View and read blog posts from various authors.
 - **Responsive Design**: Access the platform on any device with a seamless experience.
+
+## Screenshots
+
+### Home Page
+![Home Page](images/homepage.png)
+
+### Create Post
+![Create Post](images/createpost.png)
+
+### Edit Post
+![Edit Post](images/editpost.png)
+
+### Delete Post
+![Delete Post](images/deletepost.png)
