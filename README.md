@@ -59,11 +59,14 @@ To get started with Vichar, follow these steps:
 ### Home Page
 ![Home Page](/public/Home.png)
 
+### All Post
+![Edit Post](/public/AllPost.png)
+
+### Login Page
+![Home Page](/public/LoginPage.png)
+
 ### Create Post
-![Create Post](images/createpost.png)
+![Create Post](/public/CreatePost.png)
 
-### Edit Post
-![Edit Post](images/editpost.png)
-
-### Delete Post
-![Delete Post](images/deletepost.png)
+### Post
+![Delete Post](/public/Post.png)
