@@ -57,7 +57,7 @@ To get started with Vichar, follow these steps:
 ## Screenshots
 
 ### Home Page
-![Home Page](images/homepage.png)
+![Home Page](/public/Home.png)
 
 ### Create Post
 ![Create Post](images/createpost.png)
